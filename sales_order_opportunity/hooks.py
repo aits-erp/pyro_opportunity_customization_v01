@@ -10,6 +10,12 @@ app_license = "mit"
 
 # required_apps = []
 
+
+doctype_js = {
+    "Sales Order": "public/js/sales_order.js"
+}
+
+
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
